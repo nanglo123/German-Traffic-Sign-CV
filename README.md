@@ -1,7 +1,1 @@
-# German-Traffic-Sign-CV
-
-
-Testing readme file
-
-
-Pushed everything related to deployment already
+Model Deployed: https://huggingface.co/spaces/nanglo123/GTSRB-Deployment
