@@ -1,0 +1,43 @@
+Ahead only
+Beware of ice or snow
+Bicycles crossing
+Bumpy road
+Children crossing
+Dangerous curve left
+Dangerous curve right
+Double curve
+End no passing veh > 3.5 tons
+End of no passing
+End of speed limit (80kmh)
+End speed + passing limits
+General caution
+Go straight or left
+Go straight or right
+Keep left
+Keep right
+No entry
+No passing
+No passing veh over 3.5 tons
+No vehicles
+Pedestrians
+Priority road
+Right-of-way at intersection
+Road narrows on the right
+Road work
+Roundabout mandatory
+Slippery road
+Speed limit (100kmh)
+Speed limit (120kmh)
+Speed limit (20kmh)
+Speed limit (30kmh)
+Speed limit (50kmh)
+Speed limit (60kmh)
+Speed limit (70kmh)
+Speed limit (80kmh)
+Stop
+Traffic signals
+Turn left ahead
+Turn right ahead
+Veh > 3.5 tons prohibited
+Wild animals crossing
+Yield
